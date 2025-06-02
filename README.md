@@ -1,1 +1,4 @@
-Technologies and Languages: HTML (Hypertext Markup Language) CSS (Cascading Style Sheets) JavaScript (and various frameworks like React, Angular, Vue.js).
+Technologies and Languages: 
+1. HTML (Hypertext Markup Language) 
+2. CSS (Cascading Style Sheets) 
+3. JavaScript (and various frameworks like React, Angular, Vue.js).
